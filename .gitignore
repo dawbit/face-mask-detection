@@ -1,0 +1,8 @@
+test/
+train/
+*.zip
+.git
+.idea
+.ipynb_checkpoints
+*.model
+*.h5
